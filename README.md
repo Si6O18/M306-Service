@@ -1,5 +1,5 @@
 # M306-Service
-Titel: Werkstattauftrag W07 + Webmin
+Werkstattauftrag W07 + Webmin
 ===========================================================================
 
 Inhaltsverzeichnis:
